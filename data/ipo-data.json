@@ -1,234 +1,54 @@
 {
-    "bray": {
-        "venue":{
-            "address": "Star Casino, Seafront, Bray, Ireland.",
-            "map":"<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2390.1448715560364!2d-6.094450000000297!3d53.19731799909906!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4867a85dfe65c9d3%3A0x7ca1adb8e04a20a1!2sStar+Leisure+%26+Casino!5e0!3m2!1sen!2sie!4v1429733313126' width='860' height='350' frameborder='0' style='border:0'></iframe>"    
-        },
-        "entryFee": "USD$218 + USD$32",
-        "rules": "The IPO Bray is a No Limit Hold'em Re-Entry tournament.Re-entries can be used on Day 1A or Day 1B. Maximum 2 X Re-Entries Allowed. TDA rules apply at all IPO events. You can view the latest poker TDA rules on www.pokertda.com <br>All players must hold a Full Tilt account.",
-        "image": "img/bray.jpg",
-        "extras": [
-            {
-                "title": "starting chip",
-                "content": "25,000"
-            },
-            {
-                "title": "Parking",
-                "content": "Ample free parking available in casino car park and on street."
-            }
-        ],
-        "ipoContent": {
-            "title": "Full Tilt IPO Bray",
-            "content": "The Full Tilt IPO Bray is the first event of the Full Tilt IPO Tour 2015."
-            },
-        "table": [
-            {"date": "Friday 22nd May 16:00",    "description": "Main Event Day 1A",     "entryFee":"USD$218",           "regFee": "USD$32", "startingStack": "25,000",  "blindTimeFrames": "30 minutes"},
-            {"date": "Friday 22nd May 22:00",    "description": "NLH Turbo",             "entryFee":"€50",               "regFee": "€10",    "startingStack": "10,000",  "blindTimeFrames": "15 minutes"},
-            {"date": "Saturday 23rd May 14:00",  "description": "Main Event Day 1B",     "entryFee":"USD$218",           "regFee": "USD$32", "startingStack": "25,000",  "blindTimeFrames": "30 minutes"},
-            {"date": "Saturday 23rd May 20:00",  "description": "NLH Bounty Turbo",      "entryFee":"€75 + €25 Bounty",  "regFee": "€10",    "startingStack": "15,000",  "blindTimeFrames": "15 minutes"},
-            {"date": "Sunday 24th May 12:00",    "description": "Main Event Day 2",      "entryFee":"N/A",               "regFee": "N/A",    "startingStack": "N/A",     "blindTimeFrames": "30 minutes"},
-            {"date": "Sunday 24th May 13:00",    "description": "NLH Turbo Deepstack",   "entryFee":"€100",              "regFee": "€15",    "startingStack": "50,000",  "blindTimeFrames": "15 minutes"}
-        ],
-        "parking":{
-            "availability": true,
-            "image": [
-                {
-                    "url": ""
-                },
-                {
-                    "url": ""
-                }
-            ]
-        },
-        "pdf": "http://google.ie"
-    },
-    "cork": {
-        "venue":{
-            "address": "Macau Sporting Club, St. Patrick's Quay, Cork, Ireland.",
-            "map": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2461.8076647659173!2d-8.468468999999999!3d51.900974!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4844900e5eccdd5b%3A0xc76996892506aa65!2sMacau+Sporting+Club!5e0!3m2!1sen!2sie!4v1429733901505' width='860' height='350' frameborder='0' style='border:0'></iframe>"
-        },
-        "entryFee": "USD$218 + USD$32",
-        "rules": "The IPO Cork is a No Limit Hold'em Re-Entry tournament.Re-entries can be used on Day 1A or Day 1B. Maximum 2 X Re-Entries Allowed.  TDA rules apply at all IPO events. You can view the latest poker TDA rules on www.pokertda.com <br>All players must hold a Full Tilt account.",
-        "image": "img/cork.jpg",
-        "extras": [
-            {
-                "title": "Starting chip",
-                "content": "25,000"
-            }
-        ],
-        "ipoContent": {
-            "title":"Full Tilt IPO Cork 2015",
-            "content": "The Full Tilt IPO Cork 2015 is sure to set the city alight with poker action."
-        },
-        "table": [
-            {"date": "Friday 10th July 16:00",    "description": "Main Event Day 1A",     "entryFee":"USD$218",           "regFee": "USD$32", "startingStack": "25,000",  "blindTimeFrames": "30 minutes"},
-           {"date": "Friday 10th July 22:00",    "description": "NLH Turbo",             "entryFee":"€50",               "regFee": "€10",    "startingStack": "10,000",  "blindTimeFrames": "15 minutes"},
-           {"date": "Saturday 11th July 14:00",  "description": "Main Event Day 1B",     "entryFee":"USD$218",           "regFee": "USD$32", "startingStack": "25,000",  "blindTimeFrames": "30 minutes"},
-           {"date": "Saturday 11th July 20:00",  "description": "NLH Bounty Turbo",      "entryFee":"€75 + €25 Bounty",  "regFee": "€10",    "startingStack": "15,000",  "blindTimeFrames": "15 minutes"},
-           {"date": "Sunday 12th July 12:00",    "description": "Main Event Day 2",      "entryFee":"N/A",               "regFee": "N/A",    "startingStack": "N/A",     "blindTimeFrames": "30 minutes"},
-           {"date": "Sunday 12th July 13:00",    "description": "NLH Turbo Deepstack",   "entryFee":"€100",              "regFee": "€15",    "startingStack": "50,000",  "blindTimeFrames": "15 minutes"}
-        ],
-        "pdf": "http://google.ie"
-    },
     "dublin": {
         "venue":{
             "address": "Regency Hotel Conference Centre, Swords Road, Whitehall, Dublin 9.",
             "map": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2380.0905107105023!2d-6.246053999999999!3d53.377430000000004!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48670e4012124e39%3A0x4eb72d57f9bf32be!2sThe+Regency+Hotel!5e0!3m2!1sen!2sie!4v1429734167710' width='860' height='350' frameborder='0' style='border:0'></iframe>"
         },
-        "entryFee": "USD$218 + USD$32",
-        "rules": "Maximum 2 X re-entries allowed per player. Players can use three bullets in total for the IPO Main Event. Players can re-enter twice in one day or in a number of starting days. If a player carries through more than one stack then only the largest stack will go forward to Day 2. ",
+        "entryFee": "€260 (+ €40 Registration Fee)",
+        "rules": "Maximum 1 X re-entry allowed per player. Players can use three bullets in total for the IPO Main Event. Players can re-enter once in one day or in two separate starting days. If a player carries through more than one stack then only the largest stack will go forward to Day 2.",
         "image": "img/regency.jpg",
         "extras": [
             {
                 "title": "Date",
-                "content": "21st to 26th October 2015"
+                "content": "27th to 31st October 2016"
             },
             {
                 "title":"Tournament Type:",
-                "content": "NLH Re-Entry"
+                "content": "NLH with one re-entry allowed per player."
             },
             {
                 "title": "Estimated Prize-pool",
-                "content":"$400,000"
+                "content":"€400,000"
             },
             {
                 "title": "Regency Hotel Accommodation",
-                "content": "Full Tilt Players can use the code IPO2015 to book accommodation through www.regencyhotels.com at the poker rate. There are a very limited number of rooms now available and there is a minimum three night stay. <br><br>Executive Rooms: €110 Per Room Per Night <br>Standard Rooms: €90 Per Room Per Night" 
+                "content":"Grosvenor Poker Players can use the code IPO2016 to book accommodation through www.regencyhotels.com at the poker rate. There are a very limited number of rooms now available and there is a minimum three night stay. <br><br>Executive Rooms: €110 Per Room Per Night <br>Standard Rooms: €95 Per Room Per Night"
             }
         ],
         "ipoContent": {
-            "title": "Full Tilt IPO Dublin 2015",
-            "content": "The Full Tilt IPO Dublin 2015 is sure to set the city alight with poker action."
+            "title": "Grosvenor Poker IPO Dublin 2016",
+            "content": "The Grosvenor Poker IPO Dublin 2016 is sure to set the city alight with poker action."
         },
         "table": [
-            {"date": "Tuesday 20th Oct 20:00",    "description": "Live Super Satellite. 5 X Main Event Seats Guaranteed!",     "entryFee":"€20",           "regFee": "€5", "startingStack": "3,000 Starting 4,000 Re-buy 5,000 Add-on",  "blindTimeFrames": "15 minutes"},
-            {"date": "Wednesday 21st Oct 14:00",    "description": "Main Event Day 1A",     "entryFee":"USD$218",           "regFee": "USD$32", "startingStack": "30,000",  "blindTimeFrames": "40 minutes"},
-            {"date": "Wednesday 21st Oct 21:00",    "description": "No-Limit Hold'em Freeze-out Tournament",     "entryFee":"€100",           "regFee": "€15", "startingStack": "10,000",  "blindTimeFrames": "25 minutes"},
-            {"date": "Thursday 22nd Oct 14:00",  "description": "Main Event Day 1B",     "entryFee":"USD$218",           "regFee": "USD$32", "startingStack": "30,000",  "blindTimeFrames": "40 minutes"},
-            {"date": "Thursday 22nd Oct 21:00",    "description": "No-Limit Hold'em Freeze-out Tournament",     "entryFee":"€100",           "regFee": "€15", "startingStack": "10,000",  "blindTimeFrames": "25 minutes"},
-            {"date": "Friday 23rd Oct 14:00",    "description": "Main Event Day 1C",     "entryFee":"USD$218",           "regFee": "USD$32", "startingStack": "30,000",  "blindTimeFrames": "40 minutes"},
-            {"date": "Friday 23rd Oct 21:00",    "description": "No-Limit Hold'em Freeze-out Tournament",     "entryFee":"€100",           "regFee": "€15", "startingStack": "10,000",  "blindTimeFrames": "25 minutes"},
-            {"date": "Friday 23rd Oct 23:59",    "description": "Midnight NLH Turbo Freeze-out",     "entryFee":"€50",           "regFee": "€10", "startingStack": "5,000",  "blindTimeFrames": "15 minutes"},
-            {"date": "Saturday 24th Oct 12:00",    "description": "Main Event Day 1D",     "entryFee":"USD$218",           "regFee": "USD$32", "startingStack": "30,000",  "blindTimeFrames": "40 minutes"},
-            {"date": "Saturday 24th Oct 21:00", "description": "No-Limit Hold'em Freeze-out Tournament", "entryFee":"€100", "regFee": "€15", "startingStack": "10,000", "blindTimeFrames": "25 minutes"},
-            {"date": "Saturday 24th Oct 23:59", "description": "Midnight NLH Turbo Freeze-out", "entryFee":"€50", "regFee": "€10", "startingStack": "5,000", "blindTimeFrames": "15 minutes"},
-            {"date": "Sunday 25th Oct 12:00", "description": "Main Event Day 2", "entryFee":"N/A", "regFee": "N/A", "startingStack": "N/A", "blindTimeFrames": "50 minutes"},
-            {"date": "Sunday 25th Oct 15:00", "description": "APAT Irish Amateur Poker Championship", "entryFee":"€100", "regFee": "€20", "startingStack": "20,000", "blindTimeFrames": "45 minutes"},
-            {"date": "Sunday 25th Oct 19:00", "description": "PLO Double Chance", "entryFee":"€100", "regFee": "€15", "startingStack": "8,000 + 8,000 Dbl Chance", "blindTimeFrames": "25 minutes"},
-            {"date": "Sunday 25th Oct 21:00", "description": "Randomised Bounty No-Limit Hold'em Freeze-out", "entryFee":"€125 Total: €75 Entry + €25 Bounty + €25 Random Bounty", "regFee": "€15", "startingStack": "10,000", "blindTimeFrames": "20 minutes"},
-            {"date": "Sunday 25th Oct 23:59", "description": "Midnight NLH Turbo Freeze-out", "entryFee":"€50", "regFee": "€10", "startingStack": "5,000", "blindTimeFrames": "15 minutes"},
-            {"date": "Monday 26th Oct 12:00", "description": "Main Event Day 3", "entryFee":"N/A", "regFee": "N/A", "startingStack": "N/A", "blindTimeFrames": "50 minutes"},
-            {"date": "Monday 26th Oct 15:00", "description": "APAT Irish Amateur Poker Championship Day 2", "entryFee":"N/A", "regFee": "N/A", "startingStack": "N/A", "blindTimeFrames": "45 minutes"},
-            {"date": "Monday 26th Oct 18:00", "description": "NLH Turbo Freeze-out", "entryFee":"€50", "regFee": "€10", "startingStack": "5,000", "blindTimeFrames": "15 minutes"}
-        ],
-        "pdf": "http://google.ie"
-    },
-  
-    "newcastle": {
-        "venue":{
-            "address": "Aspers Casino, The Gate Complex, Newgate Street, The Gate, Newcastle upon Tyne NE1 5TG, United Kingdom.",
-            "map": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2290.024586316593!2d-1.6195359999999996!3d54.972668!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487e70caaeffd93f%3A0xb56cc13b0b7c192e!2sAspers!5e0!3m2!1sen!2sie!4v1429734732336' width='860' height='350' frameborder='0' style='border:0'></iframe>"
-        },
-        "entryFee": "USD$218 + USD$32",
-        "rules": "The IPO Newcastle is a No Limit Hold'em Re-Entry tournament. Re-entries can be used on Day 1A or Day 1B. Maximum 2 X Re-Entries Allowed. TDA rules apply at all IPO events. You can view the latest poker TDA rules on www.pokertda.com <br>All players must hold a Full Tilt account.",
-        "image": "img/aspers.jpg",
-        "extras": [
-            {
-                "title": "Starting chip",
-                "content": "25,000"
-            }
-        ],
-        "ipoContent": {
-            "title": "Full Tilt IPO Newcastle",
-            "content": "The Full Tilt IPO Newcastle 2015 is the first IPO event in the UK and will be a fantastic event in a great location, close to St. James' Park and Chinatown in Newcastle."
-        },
-        "table": [
-            {"date": "Friday 21st August 16:00",    "description": "Main Event Day 1A",     "entryFee":"USD$218",           "regFee": "USD$32", "startingStack": "25,000",  "blindTimeFrames": "30 minutes"},
-            {"date": "Friday 21st August 22:00",    "description": "NLH Turbo",             "entryFee":"£50",               "regFee": "£10",    "startingStack": "10,000",  "blindTimeFrames": "15 minutes"},
-            {"date": "Saturday 22nd August 14:00",  "description": "Main Event Day 1B",     "entryFee":"USD$218",           "regFee": "USD$32", "startingStack": "25,000",  "blindTimeFrames": "30 minutes"},
-            {"date": "Saturday 22nd August 20:00",  "description": "NLH Bounty Turbo",      "entryFee":"£75 + £25 Bounty",  "regFee": "£10",    "startingStack": "15,000",  "blindTimeFrames": "15 minutes"},
-            {"date": "Sunday 23rd August 12:00",    "description": "Main Event Day 2",      "entryFee":"N/A",               "regFee": "N/A",    "startingStack": "N/A",     "blindTimeFrames": "30 minutes"},
-            {"date": "Sunday 23rd August 13:00",    "description": "NLH Turbo Deepstack",   "entryFee":"£100",              "regFee": "£15",    "startingStack": "50,000",  "blindTimeFrames": "15 minutes"}
-        ],
-        "pdf": "http://google.ie"
-    },
-    "limerick": {
-         "venue":{
-            "address": "Timeout Casino, 43 Parnell Street, Limerick, Ireland.",
-            "map": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2419.9823708999393!2d-8.62462!3d52.660295999999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x485b5c65a2d6abc1%3A0xab04bd868e8802c7!2sTimeout+Casino+and+Card+Club!5e0!3m2!1sen!2sie!4v1429734346960' width='860' height='350' frameborder='0' style='border:0'></iframe>"
-
-        },
-        "entryFee": "USD$218 + USD$32",
-        "rules": "The IPO Limerick is a No Limit Hold'em Re-Entry tournament. Re-entries can be used on Day 1A or Day 1B. Maximum 2 X Re-Entries Allowed. TDA rules apply at all IPO events. You can view the latest poker TDA rules on www.pokertda.com ",
-        "image": "img/pery.jpg",
-        "extras": [
-            {
-                "title": "starting chip",
-                "content": "25,000"
-            }
-        ],
-        "ipoContent": {
-            "title": "Full Tilt IPO Limerick 2015",
-            "content":"The Full Tilt IPO Limerick 2015 will be held in the brand new Timeout Casino in Limerick. With very comfortable surroundings and a vibrant local poker community this event promises to be something really special."
-        },
-        "table": [
-            {"date": "Friday 13th November 16:00",    "description": "Main Event Day 1A",     "entryFee":"USD$218",           "regFee": "USD$32", "startingStack": "25,000",  "blindTimeFrames": "30 minutes"},
-            {"date": "Friday 13th November 22:00",    "description": "NLH Turbo",             "entryFee":"€50",               "regFee": "€10",    "startingStack": "10,000",  "blindTimeFrames": "15 minutes"},
-            {"date": "Saturday 14th November 14:00",  "description": "Main Event Day 1B",     "entryFee":"USD$218",           "regFee": "USD$32", "startingStack": "25,000",  "blindTimeFrames": "30 minutes"},
-            {"date": "Saturday 14th November 20:00",  "description": "NLH Bounty Turbo",      "entryFee":"€75 + €25 Bounty",  "regFee": "€10",    "startingStack": "15,000",  "blindTimeFrames": "15 minutes"},
-            {"date": "Sunday 15th November 12:00",    "description": "Main Event Day 2",      "entryFee":"N/A",               "regFee": "N/A",    "startingStack": "N/A",     "blindTimeFrames": "30 minutes"},
-            {"date": "Sunday 15th November 13:00",    "description": "NLH Turbo Deepstack",   "entryFee":"€100",              "regFee": "€15",    "startingStack": "50,000",  "blindTimeFrames": "15 minutes"}
-        ],
-        "pdf": "http://google.ie"
-    },
-    
-    "london": {
-        "venue":{
-            "address": "Hippodrome Casino, Cranbourn Street, Leicester Square, London WC2H 7JH, United Kingdom.",
-            "map": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2483.0986022020465!2d-0.12864599999999998!3d51.511407!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604d27399c375%3A0x75195e51b532f238!2sThe+Hippodrome+Casino+London!5e0!3m2!1sen!2sie!4v1429734627115' width='860' height='350' frameborder='0' style='border:0'></iframe>"
-        },
-        "entryFee": "GBP£150 + GBP£15 Reg",
-        "rules": "The IPO London is a No Limit Hold'em Re-Entry tournament. Re-entries can be used on Day 1A or Day 1B. Maximum 2 X Re-Entries Allowed. TDA rules apply at all IPO events. You can view the latest poker TDA rules on www.pokertda.com <br>All players must hold a Full Tilt account.",
-        "image": "img/london.jpg",
-        "extras": [
-            {
-                "title": "starting chip",
-                "content": "25,000"
-            }
-        ],
-        "ipoContent": {
-            "title": "Full Tilt London 2015",
-            "content": "The Hippodrome Casino, one of the most luxurious poker venues in the UK will host the Full Tilt IPO London 2015."
-        },
-        "table": [
-            {"date": "Friday 28th August 14:00",    "description": "Main Event Day 1A",     "entryFee":"£150",           "regFee": "£15", "startingStack": "25,000",  "blindTimeFrames": "30 minutes"},
-           {"date": "Friday 28th August 22:00",    "description": "NLH Turbo",             "entryFee":"£50",               "regFee": "£5",    "startingStack": "10,000",  "blindTimeFrames": "15 minutes"},
-           {"date": "Saturday 29th August 14:00",  "description": "Main Event Day 1B",     "entryFee":"£150",           "regFee": "£15", "startingStack": "25,000",  "blindTimeFrames": "30 minutes"},
-           {"date": "Saturday 29th August 20:00",  "description": "NLH Bounty Turbo",      "entryFee":"£75 + £25 Bounty",  "regFee": "£10",    "startingStack": "15,000",  "blindTimeFrames": "15 minutes"},
-           {"date": "Sunday 30th August 12:00",    "description": "Main Event Day 2",      "entryFee":"N/A",               "regFee": "N/A",    "startingStack": "N/A",     "blindTimeFrames": "40 minutes"},
-           {"date": "Sunday 30th August 14:30",    "description": "NLH Turbo Deepstack",   "entryFee":"£100",              "regFee": "£15",    "startingStack": "50,000",  "blindTimeFrames": "15 minutes"}
-        ],
-        "pdf": "http://google.ie"
-    },
-    "killarney": {
-        "venue":{
-            "address": "Gleneagle Hotel, Muckross Road, Killarney, Co. Kerry, Ireland.",
-            "map": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2453.9407850521447!2d-9.5020306!3d52.04439139999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48453c165727e1e1%3A0x4982fee5989b1c2f!2sGleneagle+Hotel%2C+Muckross+Rd%2C+Killarney%2C+Co.+Kerry!5e0!3m2!1sen!2sie!4v1429743586456' width='860' height='350' frameborder='0' style='border:0'></iframe>"
-        },
-        "entryFee": "USD$218 + USD$32",
-        "rules": "The IPO Killarney is a No Limit Hold'em Re-Entry tournament. Re-entries can be used on Day 1A or Day 1B. Maximum 2 X Re-Entries Allowed. TDA rules apply at all IPO events. You can view the latest poker TDA rules on www.pokertda.com<br>All players must hold a Full Tilt account.",
-        "image": "img/killarney.jpg",
-        "extras": [],
-        "ipoContent": {
-            "title":"Full Tilt IPO Killarney 2015",
-            "content": "The Full Tilt IPO Killarney 2015 will be hosted in the Gleneagle Hotel, Killarney, Ireland. One of the most popular poker destinations in Ireland, this event promises to be hugely exciting."        },
-        "table": [
-            {"date": "Friday 18th September 16:00",    "description": "Main Event Day 1A",     "entryFee":"USD$218",           "regFee": "USD$32", "startingStack": "25,000",  "blindTimeFrames": "30 minutes"},
-            {"date": "Friday 18th September 22:00",    "description": "NLH Turbo",             "entryFee":"€50",               "regFee": "€10",    "startingStack": "10,000",  "blindTimeFrames": "15 minutes"},
-            {"date": "Saturday 19th September 14:00",  "description": "Main Event Day 1B",     "entryFee":"USD$218",           "regFee": "USD$32", "startingStack": "25,000",  "blindTimeFrames": "30 minutes"},
-            {"date": "Saturday 19th September 20:00",  "description": "NLH Bounty Turbo",      "entryFee":"€75 + €25 Bounty",  "regFee": "€10",    "startingStack": "15,000",  "blindTimeFrames": "15 minutes"},
-            {"date": "Sunday 20th September 12:00",    "description": "Main Event Day 2",      "entryFee":"N/A",               "regFee": "N/A",    "startingStack": "N/A",     "blindTimeFrames": "30 minutes"},
-            {"date": "Sunday 20th September 13:00",    "description": "NLH Turbo Deepstack",   "entryFee":"€100",              "regFee": "€15",    "startingStack": "50,000",  "blindTimeFrames": "15 minutes"}
+            {"date": "Wednesday 26th Oct 20:00",    "description": "Live Re-buy Super Satellite. 10 X Main Event Seats Guaranteed!",        "entryFee":"€30",           "regFee": "€5", "startingStack": "3,000 Starting 4,000 Re-buy 10,000 Add-on",   "blindTimeFrames": "15 minutes"},
+            {"date": "Thursday 27th Oct 14:00",     "description": "Main Event Day 1A",                                                     "entryFee":"€260",          "regFee": "€40", "startingStack": "30,000",                                    "blindTimeFrames": "40 minutes"},
+            {"date": "Thursday 27th Oct 18:00",     "description": "PLO Double Chance Freeze-out",                                          "entryFee":"€100",          "regFee": "€20", "startingStack": "10,000 + 10,000",                           "blindTimeFrames": "20 minutes"},
+            {"date": "Thursday 27th Oct 20:00",     "description": "NLH Freeze-out",                                                       "entryFee":"€100",          "regFee": "€15", "startingStack": "15,000",                                    "blindTimeFrames": "20 minutes"},
+            {"date": "Friday 28th Oct 14:00",       "description": "Main Event Day 1B",                                                    "entryFee":"€260",          "regFee": "€40", "startingStack": "30,000",                                    "blindTimeFrames": "40 minutes"},
+            {"date": "Friday 28th Oct 18:00",       "description": "PLO Double Chance Freeze-out",                                         "entryFee":"€100",          "regFee": "€20", "startingStack": "10,000 + 10,000",                           "blindTimeFrames": "20 minutes"},
+            {"date": "Friday 28th Oct 20:00",       "description": "No-Limit Hold'em Freeze-out Tournament",                               "entryFee":"€100",          "regFee": "€15", "startingStack": "15,000",                                    "blindTimeFrames": "20 minutes"},
+            {"date": "Saturday 29th Oct 14:00",     "description": "Main Event Day 1C",                                                     "entryFee":"€260",          "regFee": "€40", "startingStack": "30,000",                                    "blindTimeFrames": "40 minutes"},
+            {"date": "Saturday 29th Oct 18:00",     "description": "PLO Double Chance Freeze-out",                                          "entryFee":"€100",          "regFee": "€20", "startingStack": "10,000 + 10,000",                           "blindTimeFrames": "20 minutes"},
+            {"date": "Saturday 29th Oct 20:00",     "description": "No-Limit Hold'em Freeze-out Tournament",                                "entryFee":"€100",          "regFee": "€15", "startingStack": "15,000",                                     "blindTimeFrames": "20 minutes"},
+            {"date": "Saturday 29th Oct 22:00",     "description": "NLH Turbo Freeze-out",                                                  "entryFee":"€50",           "regFee": "€10", "startingStack": "10,000",                                     "blindTimeFrames": "15 minutes"},
+            {"date": "Sunday 30th Oct 13:00",       "description": "Main Event Day 2",                                                      "entryFee":"N/A",           "regFee": "N/A", "startingStack": "N/A",                                        "blindTimeFrames": "50 minutes"},
+            {"date": "Sunday 30th Oct 14:00",       "description": "APAT Irish Amateur Poker Championships (2 Day Event)",                  "entryFee":"€100",          "regFee": "€20", "startingStack": "20,000",                                     "blindTimeFrames": "40 minutes"},
+            {"date": "Sunday 30th Oct 18:00",       "description": "NLH Freeze-out Turbo",                                                  "entryFee":"€50",           "regFee": "€10", "startingStack": "10,000 + 8,000 Dbl Chance",                  "blindTimeFrames": "15 minutes"},
+            {"date": "Sunday 30th Oct 20:00",       "description": "NLH Turbo Freeze-out",                                                  "entryFee":"€100",          "regFee": "€15", "startingStack": "15,000",                                     "blindTimeFrames": "20 minutes"},
+            {"date": "Monday 31st Oct 12:00",       "description": "APAT Irish Amateur Poker Championships Day 2",                          "entryFee":"N/A",           "regFee": "N/A", "startingStack": "N/A",                                        "blindTimeFrames": "40 minutes"},
+            {"date": "Monday 31st Oct 13:00",       "description": "Main Event Day 3",                                                      "entryFee":"N/A",           "regFee": "N/A", "startingStack": "N/A",                                        "blindTimeFrames": "50 minutes"},
+            {"date": "Monday 31st Oct 14:00",       "description": "NLH Turbo Freeze-out",                                                  "entryFee":"€50",           "regFee": "€10", "startingStack": "10,000",                                     "blindTimeFrames": "15 minutes"},
+            {"date": "Monday 31st Oct 18:00",       "description": "NLH Freeze-out",                                                        "entryFee":"€100",          "regFee": "€15", "startingStack": "15,000",                                     "blindTimeFrames": "20 minutes"}
         ],
         "pdf": "http://google.ie"
     }

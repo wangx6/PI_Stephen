@@ -115,9 +115,14 @@
             i = 0,
             row,
             j,
-            html = ['<h3>Full Tilt IPO Schedule</h3>'];
+            html = ['<h3>Grosvenor IPO Schedule</h3>'];
 
-        html.push('<table class="ipo__table">');
+        html.push([
+            '<p>Late Reg for 6 Levels in all Events<br>',
+            'All side events are one day events with the exception of APAT Irish Amateur Poker Championships</p>'
+        ].join(''));
+
+        html.push('<br><table class="ipo__table">');
         
         html.push('<tr>');    
         for(j in tableInfo[0]) {
