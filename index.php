@@ -11,7 +11,7 @@
         <ul id="sliderContent">
 			
             <li class="sliderImage">
-                <a href="http://www.fulltilt.com/promotions/full-tilt-ipo" target="_blank"><img src="img/IPO-2016-logo.jpg" alt="1" style="width:622px; height: 302px"/></a>
+                <img src="img/IPO-2016-logo.jpg" alt="1" style="width:622px; height: 302px"/>
                 <span class="bottom">Grosvenor Poker International Poker Open 2016.</span>
             </li>
             <div class="clear sliderImage"></div>
@@ -60,9 +60,9 @@
             <p>Note; All IPO players must hold a Grosvenor Poker account.</p>
             
             <h4>Qualify on Grosvenor Poker</h4>
-                <p>Step 1. Follow this <a href="http://ads.grosvenorcasinos.com/redirect.aspx?pid=799692&amp;bid=3400">link</a> to register a new GrosvenorPoker account.</p>
+                <p>Step 1. Follow this <a href="http://ads.grosvenorcasinos.com/redirect.aspx?pid=799692&amp;bid=3400" target="_blank">link</a> to register a new GrosvenorPoker account.</p>
 
-                <p>Step 2. After you complete your account registration go to <a href="https://www.grosvenorcasinos.com/poker/download">this</a> page to download the
+                <p>Step 2. After you complete your account registration go to <a href="https://www.grosvenorcasinos.com/poker/download" target="_blank">this</a> page to download the
                 GrosvenorPoker game lobby software.</p>
 
                 <p>Step 3. Log-in to the client and create a Poker Alias (nickname).</p>
