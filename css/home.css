@@ -1,0 +1,21 @@
+.home__table__wrapper{ 
+    border:0px solid red;
+    margin-top: 20px;
+}
+.home__table__wrapper .home__table{
+    width: 100%;
+    border:0px solid #ccc;
+    border-spacing: 0px 5px;
+    font-size: 12px;
+}
+
+.home__table tr:nth-child(odd){
+    background-color: #802428;
+}
+.home__table td, .home__table th{
+    padding: 3px 10px;
+    text-align: left;
+}
+.home__table th{
+    text-transform: capitalize;
+}

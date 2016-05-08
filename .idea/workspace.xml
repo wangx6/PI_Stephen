@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc20d437-46eb-48e9-86ee-9ea3c939f3ed" name="Default" comment="" />
+    <ignored path="pokerireland.ie.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="pokerireland.ie" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="IPO_Dublin.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IPO_Dublin.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="58" column="107" selection-start="2749" selection-end="2749" vertical-scroll-proportion="-37.923077" vertical-offset="0" max-vertical-offset="1428">
+              <folding>
+                <marker date="1409679151519" expanded="true" signature="208:257" placeholder="..." />
+                <marker date="1409679151519" expanded="true" signature="310:403" placeholder="..." />
+                <marker date="1409679151519" expanded="true" signature="456:2778" placeholder="..." />
+                <marker date="1409679151519" expanded="true" signature="462:945" placeholder="..." />
+                <marker date="1409679151519" expanded="true" signature="957:1511" placeholder="..." />
+                <marker date="1409679151519" expanded="true" signature="1563:1862" placeholder="..." />
+                <marker date="1409679151519" expanded="true" signature="1904:2171" placeholder="..." />
+                <marker date="1409679151519" expanded="true" signature="2209:2765" placeholder="..." />
+                <marker date="1409679151519" expanded="false" signature="2799:2809" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IPO_fr.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IPO_fr.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="12" selection-start="620" selection-end="620" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="1683">
+              <folding>
+                <marker date="1409510154903" expanded="true" signature="203:252" placeholder="..." />
+                <marker date="1409510154903" expanded="true" signature="303:396" placeholder="..." />
+                <marker date="1409510154903" expanded="true" signature="460:1507" placeholder="..." />
+                <marker date="1409510154903" expanded="true" signature="460:1065" placeholder="..." />
+                <marker date="1409510154903" expanded="true" signature="460:639" placeholder="..." />
+                <marker date="1409510154903" expanded="true" signature="460:2385" placeholder="..." />
+                <marker date="1409510154903" expanded="true" signature="525:619" placeholder="..." />
+                <marker date="1409510154903" expanded="true" signature="590:610" placeholder="..." />
+                <marker date="1409510154903" expanded="true" signature="625:955" placeholder="..." />
+                <marker date="1409510154903" expanded="true" signature="625:639" placeholder="..." />
+                <marker date="1409510154903" expanded="true" signature="967:1507" placeholder="..." />
+                <marker date="1409510154903" expanded="true" signature="967:1114" placeholder="..." />
+                <marker date="1409510154903" expanded="true" signature="967:1065" placeholder="..." />
+                <marker date="1409510154903" expanded="true" signature="1127:1687" placeholder="..." />
+                <marker date="1409510154903" expanded="true" signature="1140:1505" placeholder="..." />
+                <marker date="1409510154903" expanded="true" signature="1531:1672" placeholder="..." />
+                <marker date="1409510154903" expanded="true" signature="1699:2376" placeholder="..." />
+                <marker date="1409510154903" expanded="true" signature="2402:2412" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="137" column="55" selection-start="4354" selection-end="4354" vertical-scroll-proportion="0.0" vertical-offset="1936" max-vertical-offset="2652">
+              <folding>
+                <marker date="1409509926671" expanded="true" signature="2217:2305" placeholder="..." />
+                <marker date="1409509926671" expanded="true" signature="3055:4136" placeholder="..." />
+                <marker date="1409509926671" expanded="true" signature="3759:3969" placeholder="..." />
+                <marker date="1409509926671" expanded="true" signature="3799:3960" placeholder="{...}" />
+                <marker date="1409509926671" expanded="true" signature="4202:4492" placeholder="..." />
+                <marker date="1409509926671" expanded="true" signature="4202:4364" placeholder="..." />
+                <marker date="1409509926671" expanded="true" signature="4515:4528" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/header.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="16" selection-start="364" selection-end="364" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="3451">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="1" selection-start="1" selection-end="1420" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1751">
+              <folding>
+                <marker date="1409680032413" expanded="true" signature="235:662" placeholder="..." />
+                <marker date="1409680032413" expanded="true" signature="267:650" placeholder="..." />
+                <marker date="1409680032413" expanded="true" signature="299:562" placeholder="..." />
+                <marker date="1409680032413" expanded="true" signature="695:897" placeholder="..." />
+                <marker date="1409680032413" expanded="true" signature="751:890" placeholder="..." />
+                <marker date="1409680032413" expanded="true" signature="778:884" placeholder="..." />
+                <marker date="1409680032413" expanded="true" signature="955:2847" placeholder="..." />
+                <marker date="1409680032413" expanded="true" signature="988:1345" placeholder="..." />
+                <marker date="1409680032413" expanded="true" signature="1357:1773" placeholder="..." />
+                <marker date="1409680032413" expanded="true" signature="1788:1937" placeholder="..." />
+                <marker date="1409680032413" expanded="true" signature="1988:2387" placeholder="..." />
+                <marker date="1409680032413" expanded="true" signature="2303:2378" placeholder="..." />
+                <marker date="1409680032413" expanded="true" signature="2440:2824" placeholder="..." />
+                <marker date="1409680032413" expanded="true" signature="2902:3058" placeholder="..." />
+                <marker date="1409680032413" expanded="false" signature="3076:3087" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="67" selection-start="158" selection-end="158" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="9724">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../PokerIrelandSystem/config/db-cred.inc.php" />
+        <option value="$PROJECT_DIR$/IPO_detail.php" />
+        <option value="$PROJECT_DIR$/js/menu.js" />
+        <option value="$PROJECT_DIR$/IPO_Newcastle.php" />
+        <option value="$PROJECT_DIR$/js/ani.js" />
+        <option value="$PROJECT_DIR$/IPO_staff.php" />
+        <option value="$PROJECT_DIR$/2048.html" />
+        <option value="$PROJECT_DIR$/css/2048.css" />
+        <option value="$PROJECT_DIR$/js/2048.js" />
+        <option value="$PROJECT_DIR$/css/header.css" />
+        <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/header.php" />
+        <option value="$PROJECT_DIR$/IPO_fr.php" />
+        <option value="$PROJECT_DIR$/IPO_Dublin.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pokerireland.ie" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pokerireland.ie" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pokerireland.ie" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pokerireland.ie" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pokerireland.ie" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wide" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pokerireland.ie" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pokerireland.ie" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pokerireland.ie" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pokerireland.ie" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SearchEverywhereHistory" value="&lt;" />
+    <property name="FullScreen" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\pokerireland\pokerireland.ie\css" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc20d437-46eb-48e9-86ee-9ea3c939f3ed" name="Default" comment="" />
+      <created>1402083266896</created>
+      <updated>1402083266896</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1775" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/IPO_Dublin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="0" selection-start="2772" selection-end="2772" vertical-scroll-proportion="0.0" vertical-offset="661" max-vertical-offset="1428">
+          <folding>
+            <marker date="1409679151519" expanded="true" signature="208:257" placeholder="..." />
+            <marker date="1409679151519" expanded="true" signature="310:403" placeholder="..." />
+            <marker date="1409679151519" expanded="true" signature="456:2778" placeholder="..." />
+            <marker date="1409679151519" expanded="true" signature="462:945" placeholder="..." />
+            <marker date="1409679151519" expanded="true" signature="957:1511" placeholder="..." />
+            <marker date="1409679151519" expanded="true" signature="1563:1862" placeholder="..." />
+            <marker date="1409679151519" expanded="true" signature="1904:2171" placeholder="..." />
+            <marker date="1409679151519" expanded="true" signature="2209:2765" placeholder="..." />
+            <marker date="1409679151519" expanded="false" signature="2799:2809" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IPO_fr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="12" selection-start="620" selection-end="620" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="1683">
+          <folding>
+            <marker date="1409510154903" expanded="true" signature="203:252" placeholder="..." />
+            <marker date="1409510154903" expanded="true" signature="303:396" placeholder="..." />
+            <marker date="1409510154903" expanded="true" signature="460:1507" placeholder="..." />
+            <marker date="1409510154903" expanded="true" signature="460:1065" placeholder="..." />
+            <marker date="1409510154903" expanded="true" signature="460:639" placeholder="..." />
+            <marker date="1409510154903" expanded="true" signature="460:2385" placeholder="..." />
+            <marker date="1409510154903" expanded="true" signature="525:619" placeholder="..." />
+            <marker date="1409510154903" expanded="true" signature="590:610" placeholder="..." />
+            <marker date="1409510154903" expanded="true" signature="625:955" placeholder="..." />
+            <marker date="1409510154903" expanded="true" signature="625:639" placeholder="..." />
+            <marker date="1409510154903" expanded="true" signature="967:1507" placeholder="..." />
+            <marker date="1409510154903" expanded="true" signature="967:1114" placeholder="..." />
+            <marker date="1409510154903" expanded="true" signature="967:1065" placeholder="..." />
+            <marker date="1409510154903" expanded="true" signature="1127:1687" placeholder="..." />
+            <marker date="1409510154903" expanded="true" signature="1140:1505" placeholder="..." />
+            <marker date="1409510154903" expanded="true" signature="1531:1672" placeholder="..." />
+            <marker date="1409510154903" expanded="true" signature="1699:2376" placeholder="..." />
+            <marker date="1409510154903" expanded="true" signature="2402:2412" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="137" column="55" selection-start="4354" selection-end="4354" vertical-scroll-proportion="0.0" vertical-offset="1936" max-vertical-offset="2652">
+          <folding>
+            <marker date="1409509926671" expanded="true" signature="2217:2305" placeholder="..." />
+            <marker date="1409509926671" expanded="true" signature="3055:4136" placeholder="..." />
+            <marker date="1409509926671" expanded="true" signature="3759:3969" placeholder="..." />
+            <marker date="1409509926671" expanded="true" signature="3799:3960" placeholder="{...}" />
+            <marker date="1409509926671" expanded="true" signature="4202:4492" placeholder="..." />
+            <marker date="1409509926671" expanded="true" signature="4202:4364" placeholder="..." />
+            <marker date="1409509926671" expanded="true" signature="4515:4528" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/header.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="16" selection-start="364" selection-end="364" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="3451">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="72" column="112" selection-start="2763" selection-end="2763" vertical-scroll-proportion="0.0" vertical-offset="763" max-vertical-offset="1751">
+          <folding>
+            <marker date="1409680032413" expanded="true" signature="235:662" placeholder="..." />
+            <marker date="1409680032413" expanded="true" signature="267:650" placeholder="..." />
+            <marker date="1409680032413" expanded="true" signature="299:562" placeholder="..." />
+            <marker date="1409680032413" expanded="true" signature="695:897" placeholder="..." />
+            <marker date="1409680032413" expanded="true" signature="751:890" placeholder="..." />
+            <marker date="1409680032413" expanded="true" signature="778:884" placeholder="..." />
+            <marker date="1409680032413" expanded="true" signature="955:2847" placeholder="..." />
+            <marker date="1409680032413" expanded="true" signature="988:1345" placeholder="..." />
+            <marker date="1409680032413" expanded="true" signature="1357:1773" placeholder="..." />
+            <marker date="1409680032413" expanded="true" signature="1788:1937" placeholder="..." />
+            <marker date="1409680032413" expanded="true" signature="1988:2387" placeholder="..." />
+            <marker date="1409680032413" expanded="true" signature="2303:2378" placeholder="..." />
+            <marker date="1409680032413" expanded="true" signature="2440:2824" placeholder="..." />
+            <marker date="1409680032413" expanded="true" signature="2902:3058" placeholder="..." />
+            <marker date="1409680032413" expanded="false" signature="3076:3087" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="67" selection-start="158" selection-end="158" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="9724">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IPO_Dublin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="12" selection-start="2691" selection-end="2691" vertical-scroll-proportion="0.0" vertical-offset="746" max-vertical-offset="1445">
+          <folding>
+            <marker date="1409679151519" expanded="true" signature="208:257" placeholder="..." />
+            <marker date="1409679151519" expanded="true" signature="310:403" placeholder="..." />
+            <marker date="1409679151519" expanded="true" signature="456:2778" placeholder="..." />
+            <marker date="1409679151519" expanded="true" signature="462:945" placeholder="..." />
+            <marker date="1409679151519" expanded="true" signature="957:1511" placeholder="..." />
+            <marker date="1409679151519" expanded="true" signature="1563:1862" placeholder="..." />
+            <marker date="1409679151519" expanded="true" signature="1904:2171" placeholder="..." />
+            <marker date="1409679151519" expanded="true" signature="2209:2765" placeholder="..." />
+            <marker date="1409679151519" expanded="false" signature="2799:2809" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="4647" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2669">
+          <folding>
+            <marker date="1409509926671" expanded="true" signature="2217:2305" placeholder="..." />
+            <marker date="1409509926671" expanded="true" signature="3055:4136" placeholder="..." />
+            <marker date="1409509926671" expanded="true" signature="3759:3969" placeholder="..." />
+            <marker date="1409509926671" expanded="true" signature="3799:3960" placeholder="{...}" />
+            <marker date="1409509926671" expanded="true" signature="4202:4492" placeholder="..." />
+            <marker date="1409509926671" expanded="true" signature="4202:4364" placeholder="..." />
+            <marker date="1409509926671" expanded="true" signature="4515:4528" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2048.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="61" selection-start="280" selection-end="280" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="289" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/2048.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="57" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="357" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/2048.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="23" selection-start="195" selection-end="195" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="425" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="142" column="0" selection-start="4607" selection-end="4607" vertical-scroll-proportion="0.0" vertical-offset="2637" max-vertical-offset="3454">
+          <folding>
+            <marker date="1409509926671" expanded="true" signature="2217:2305" placeholder="..." />
+            <marker date="1409509926671" expanded="true" signature="3055:4136" placeholder="..." />
+            <marker date="1409509926671" expanded="true" signature="3759:3969" placeholder="..." />
+            <marker date="1409509926671" expanded="true" signature="3799:3960" placeholder="{...}" />
+            <marker date="1409509926671" expanded="true" signature="4202:4492" placeholder="..." />
+            <marker date="1409509926671" expanded="true" signature="4202:4364" placeholder="..." />
+            <marker date="1409509926671" expanded="true" signature="4515:4528" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/header.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="14" selection-start="610" selection-end="610" vertical-scroll-proportion="0.0" vertical-offset="269" max-vertical-offset="4444" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IPO_Newcastle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="0" selection-start="1880" selection-end="1880" vertical-scroll-proportion="0.0" vertical-offset="726" max-vertical-offset="1760" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IPO_Dublin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="14" selection-start="0" selection-end="2723" vertical-scroll-proportion="0.0" vertical-offset="934" max-vertical-offset="1716">
+          <folding>
+            <marker date="1409679151519" expanded="true" signature="208:257" placeholder="..." />
+            <marker date="1409679151519" expanded="true" signature="310:403" placeholder="..." />
+            <marker date="1409679151519" expanded="true" signature="456:2778" placeholder="..." />
+            <marker date="1409679151519" expanded="true" signature="462:945" placeholder="..." />
+            <marker date="1409679151519" expanded="true" signature="957:1511" placeholder="..." />
+            <marker date="1409679151519" expanded="true" signature="1563:1862" placeholder="..." />
+            <marker date="1409679151519" expanded="true" signature="1904:2171" placeholder="..." />
+            <marker date="1409679151519" expanded="true" signature="2209:2765" placeholder="..." />
+            <marker date="1409679151519" expanded="false" signature="2799:2809" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IPO_staff.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="129" selection-start="472" selection-end="472" vertical-scroll-proportion="0.0" vertical-offset="286" max-vertical-offset="1298" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="529" column="19" selection-start="8599" selection-end="8599" vertical-scroll-proportion="0.0" vertical-offset="11453" max-vertical-offset="12364" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="36" selection-start="1017" selection-end="1017" vertical-scroll-proportion="0.0" vertical-offset="858" max-vertical-offset="2706" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="119" column="72" selection-start="3230" selection-end="3230" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3432">
+          <folding>
+            <marker date="1409509926671" expanded="true" signature="2217:2305" placeholder="..." />
+            <marker date="1409509926671" expanded="true" signature="3055:4136" placeholder="..." />
+            <marker date="1409509926671" expanded="true" signature="3759:3969" placeholder="..." />
+            <marker date="1409509926671" expanded="true" signature="3799:3960" placeholder="{...}" />
+            <marker date="1409509926671" expanded="true" signature="4202:4492" placeholder="..." />
+            <marker date="1409509926671" expanded="true" signature="4202:4364" placeholder="..." />
+            <marker date="1409509926671" expanded="true" signature="4515:4528" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/header.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="195" column="18" selection-start="3492" selection-end="3492" vertical-scroll-proportion="0.0" vertical-offset="4290" max-vertical-offset="4444" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IPO_Newcastle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="0" selection-start="1880" selection-end="1880" vertical-scroll-proportion="0.0" vertical-offset="726" max-vertical-offset="1760" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IPO_Dublin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="14" selection-start="410" selection-end="2620" vertical-scroll-proportion="0.0" vertical-offset="934" max-vertical-offset="1716">
+          <folding>
+            <marker date="1409679151519" expanded="true" signature="208:257" placeholder="..." />
+            <marker date="1409679151519" expanded="true" signature="310:403" placeholder="..." />
+            <marker date="1409679151519" expanded="true" signature="456:2778" placeholder="..." />
+            <marker date="1409679151519" expanded="true" signature="462:945" placeholder="..." />
+            <marker date="1409679151519" expanded="true" signature="957:1511" placeholder="..." />
+            <marker date="1409679151519" expanded="true" signature="1563:1862" placeholder="..." />
+            <marker date="1409679151519" expanded="true" signature="1904:2171" placeholder="..." />
+            <marker date="1409679151519" expanded="true" signature="2209:2765" placeholder="..." />
+            <marker date="1409679151519" expanded="false" signature="2799:2809" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IPO_detail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="53" selection-start="536" selection-end="2636" vertical-scroll-proportion="0.0" vertical-offset="626" max-vertical-offset="1936" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/menu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="34" selection-start="215" selection-end="215" vertical-scroll-proportion="0.0" vertical-offset="176" max-vertical-offset="374" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="516" column="18" selection-start="8355" selection-end="8355" vertical-scroll-proportion="0.0" vertical-offset="11032" max-vertical-offset="11836" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="36" selection-start="1017" selection-end="1017" vertical-scroll-proportion="0.0" vertical-offset="858" max-vertical-offset="2706" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="138" column="62" selection-start="4393" selection-end="4393" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3432">
+          <folding>
+            <marker date="1409509926671" expanded="true" signature="2217:2305" placeholder="..." />
+            <marker date="1409509926671" expanded="true" signature="3055:4136" placeholder="..." />
+            <marker date="1409509926671" expanded="true" signature="3759:3969" placeholder="..." />
+            <marker date="1409509926671" expanded="true" signature="3799:3960" placeholder="{...}" />
+            <marker date="1409509926671" expanded="true" signature="4202:4492" placeholder="..." />
+            <marker date="1409509926671" expanded="true" signature="4202:4364" placeholder="..." />
+            <marker date="1409509926671" expanded="true" signature="4515:4528" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/header.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="0" selection-start="1004" selection-end="1004" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4554" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/menu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="8" selection-start="29" selection-end="29" vertical-scroll-proportion="0.0" vertical-offset="44" max-vertical-offset="374" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IPO_detail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="72" selection-start="399" selection-end="399" vertical-scroll-proportion="0.0" vertical-offset="164" max-vertical-offset="1936" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="511" column="30" selection-start="8357" selection-end="8357" vertical-scroll-proportion="0.0" vertical-offset="10834" max-vertical-offset="11572" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PokerIrelandSystem/config/db-cred.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="21" selection-start="233" selection-end="233" vertical-scroll-proportion="0.45609066" vertical-offset="0" max-vertical-offset="706" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/live_video_feed.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1056" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IPO_detail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="53" selection-start="536" selection-end="2636" vertical-scroll-proportion="0.0" vertical-offset="626" max-vertical-offset="1936" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/ani.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="7508" selection-end="7508" vertical-scroll-proportion="0.27310345" vertical-offset="0" max-vertical-offset="725" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="306" selection-end="306" vertical-scroll-proportion="-0.030344827" vertical-offset="330" max-vertical-offset="211310" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IPO_Newcastle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="0" selection-start="1880" selection-end="1880" vertical-scroll-proportion="0.0" vertical-offset="726" max-vertical-offset="1760" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IPO_staff.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="129" selection-start="472" selection-end="472" vertical-scroll-proportion="0.0" vertical-offset="286" max-vertical-offset="1298" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/menu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="143" selection-end="143" vertical-scroll-proportion="0.17886178" vertical-offset="0" max-vertical-offset="738" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/footer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="1446" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1892" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/2048.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="57" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2048.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="61" selection-start="280" selection-end="280" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="289" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/2048.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="23" selection-start="195" selection-end="195" vertical-scroll-proportion="0.27642277" vertical-offset="0" max-vertical-offset="738" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/header.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="16" selection-start="364" selection-end="364" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="3451">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="67" selection-start="158" selection-end="158" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="9724">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="137" column="55" selection-start="4354" selection-end="4354" vertical-scroll-proportion="0.0" vertical-offset="1936" max-vertical-offset="2652">
+          <folding>
+            <marker date="1409509926671" expanded="true" signature="2217:2305" placeholder="..." />
+            <marker date="1409509926671" expanded="true" signature="3055:4136" placeholder="..." />
+            <marker date="1409509926671" expanded="true" signature="3759:3969" placeholder="..." />
+            <marker date="1409509926671" expanded="true" signature="3799:3960" placeholder="{...}" />
+            <marker date="1409509926671" expanded="true" signature="4202:4492" placeholder="..." />
+            <marker date="1409509926671" expanded="true" signature="4202:4364" placeholder="..." />
+            <marker date="1409509926671" expanded="true" signature="4515:4528" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IPO_fr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="12" selection-start="620" selection-end="620" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="1683">
+          <folding>
+            <marker date="1409510154903" expanded="true" signature="203:252" placeholder="..." />
+            <marker date="1409510154903" expanded="true" signature="303:396" placeholder="..." />
+            <marker date="1409510154903" expanded="true" signature="460:1507" placeholder="..." />
+            <marker date="1409510154903" expanded="true" signature="460:1065" placeholder="..." />
+            <marker date="1409510154903" expanded="true" signature="460:639" placeholder="..." />
+            <marker date="1409510154903" expanded="true" signature="460:2385" placeholder="..." />
+            <marker date="1409510154903" expanded="true" signature="525:619" placeholder="..." />
+            <marker date="1409510154903" expanded="true" signature="590:610" placeholder="..." />
+            <marker date="1409510154903" expanded="true" signature="625:955" placeholder="..." />
+            <marker date="1409510154903" expanded="true" signature="625:639" placeholder="..." />
+            <marker date="1409510154903" expanded="true" signature="967:1507" placeholder="..." />
+            <marker date="1409510154903" expanded="true" signature="967:1114" placeholder="..." />
+            <marker date="1409510154903" expanded="true" signature="967:1065" placeholder="..." />
+            <marker date="1409510154903" expanded="true" signature="1127:1687" placeholder="..." />
+            <marker date="1409510154903" expanded="true" signature="1140:1505" placeholder="..." />
+            <marker date="1409510154903" expanded="true" signature="1531:1672" placeholder="..." />
+            <marker date="1409510154903" expanded="true" signature="1699:2376" placeholder="..." />
+            <marker date="1409510154903" expanded="true" signature="2402:2412" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IPO_Dublin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="107" selection-start="2749" selection-end="2749" vertical-scroll-proportion="-37.923077" vertical-offset="0" max-vertical-offset="1428">
+          <folding>
+            <marker date="1409679151519" expanded="true" signature="208:257" placeholder="..." />
+            <marker date="1409679151519" expanded="true" signature="310:403" placeholder="..." />
+            <marker date="1409679151519" expanded="true" signature="456:2778" placeholder="..." />
+            <marker date="1409679151519" expanded="true" signature="462:945" placeholder="..." />
+            <marker date="1409679151519" expanded="true" signature="957:1511" placeholder="..." />
+            <marker date="1409679151519" expanded="true" signature="1563:1862" placeholder="..." />
+            <marker date="1409679151519" expanded="true" signature="1904:2171" placeholder="..." />
+            <marker date="1409679151519" expanded="true" signature="2209:2765" placeholder="..." />
+            <marker date="1409679151519" expanded="false" signature="2799:2809" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="1" selection-start="1" selection-end="1420" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1751">
+          <folding>
+            <marker date="1409680032413" expanded="true" signature="235:662" placeholder="..." />
+            <marker date="1409680032413" expanded="true" signature="267:650" placeholder="..." />
+            <marker date="1409680032413" expanded="true" signature="299:562" placeholder="..." />
+            <marker date="1409680032413" expanded="true" signature="695:897" placeholder="..." />
+            <marker date="1409680032413" expanded="true" signature="751:890" placeholder="..." />
+            <marker date="1409680032413" expanded="true" signature="778:884" placeholder="..." />
+            <marker date="1409680032413" expanded="true" signature="955:2847" placeholder="..." />
+            <marker date="1409680032413" expanded="true" signature="988:1345" placeholder="..." />
+            <marker date="1409680032413" expanded="true" signature="1357:1773" placeholder="..." />
+            <marker date="1409680032413" expanded="true" signature="1788:1937" placeholder="..." />
+            <marker date="1409680032413" expanded="true" signature="1988:2387" placeholder="..." />
+            <marker date="1409680032413" expanded="true" signature="2303:2378" placeholder="..." />
+            <marker date="1409680032413" expanded="true" signature="2440:2824" placeholder="..." />
+            <marker date="1409680032413" expanded="true" signature="2902:3058" placeholder="..." />
+            <marker date="1409680032413" expanded="false" signature="3076:3087" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

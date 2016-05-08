@@ -1,0 +1,21 @@
+#full-tilt__promote-blk{
+    width: 256px;
+    height: 300px;
+    background-color: #000;
+    float: right;
+    margin-right: 40px;
+}
+
+.full-tilt__promo__btn{
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.full-tilt__promo__logo{
+    width: 200px;
+    height: 147px;
+    margin: 0 auto;
+    padding-top: 20px;
+
+}

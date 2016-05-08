@@ -1,0 +1,80 @@
+@charset "utf-8";
+/* CSS Document */
+
+#footer{
+	width:898px;
+	height:auto;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:30px;
+	background-color:transparent;
+	border-bottom:7px solid #060;
+	border-top:7px solid #060;
+	font-size:12px;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#FFF;
+	text-align:center;
+	/*-moz-box-shadow: 0px 3px 5px #666;
+	-webkit-box-shadow: 0px 3px 5px #666;
+	box-shadow: 0px 3px 5px #666;*/
+}
+.social_media
+{
+	float:left;
+	margin-left:24px;
+	margin-top:20px;
+	width:100px;
+	height:106px;
+	border:0px solid #333;
+}
+#youtube
+{
+	background-image:url(../img/youtube.jpg);
+	background-repeat:no-repeat;
+	background-position:center bottom;
+}
+#facebook
+{
+	background-image:url(../img/facebook.jpg);
+	background-repeat:no-repeat;
+	background-position:center bottom;
+}
+#twitter
+{
+	background-image:url(../img/twitter.jpg);
+	background-repeat:no-repeat;
+	background-position:center bottom;
+}
+#linkedin
+{
+	background-image:url(../img/linkedin.jpg);
+	background-repeat:no-repeat;
+	background-position:center bottom;
+}
+#grab_chip
+{
+	width:350px;
+	height:106px;
+	background-image:url(../img/grab_chip.jpg);
+	background-repeat:no-repeat;
+	border:0px solid #ccc;
+}
+#social_media_line
+{
+	width:900px;
+	height:2px;
+	background-color:#fff;
+	margin:0 0 20px 0;
+	padding:0;
+}
+#footer p{
+	margin:0px;
+	padding-left:30px;
+	padding-right:30px;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+#footer p a{
+	color:#FF0;
+	text-decoration:none;
+}
