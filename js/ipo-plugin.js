@@ -115,7 +115,7 @@
             i = 0,
             row,
             j,
-            html = ['<h3>Grosvenor IPO Schedule</h3>'];
+            html = ['<h3>Grosvenor Poker IPO Schedule</h3>'];
 
         html.push([
             '<p>Late Reg for 6 Levels in all Events<br>',
