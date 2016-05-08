@@ -117,9 +117,7 @@ echo'
             <a class="menu-title title_2 has-drop-down" menu="ipo" href="#">IPO</a>
             <a class="menu-title title_3" href="our_service.php?title=our_service">OUR SERVICE</a>
             <a class="menu-title title_4" href="gallery.php?title=gallery">GALLERY</a>
-            <a class="menu-title title_5 has-drop-down" menu="liveupdate" href="#">LIVE UPDATES</a>
             <a class="menu-title title_6" href="about_us.php?title=about_us">ABOUT US</a>
-			<a class="menu-title title_7" href="FAQs.php?title=FAQs">FAQs</a>
 
 
 
